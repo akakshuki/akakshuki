@@ -12,10 +12,7 @@
 📈 I experienced 2 Years at DevOps, Backend, Design architect infrastructure<br>
 🏆 My certifications: 
 <ul>
-  <li>SOA: Exam FM, Exam P</li>
-  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
-  <li>Coursera: SAS Visual Business Analytics</li>
-  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
+  <li>Azure-104</li>
 </ul>
 📫 Reach me at <a href="mailto:le.dinhhoang.1207@gmail.com">le.dinhhoang.1207@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/akakshuki/">Linkedin</a><br><br><br>
