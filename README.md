@@ -30,7 +30,5 @@
 <img src="https://img.shields.io/badge/-Python-lightgrey?style=plastic"/><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akakshuki&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
-<!-- <strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akakshuki&repo=akakshuki&theme=radical)](https://github.com/akakshuki/akakshuki)
-</div> -->
+
 
