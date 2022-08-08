@@ -1,7 +1,7 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/akakshuki">Hoang ( Hodward )<a>👋</h1>
+# <h1 align="center">Hi, I'm <a href="https://github.com/akakshuki">Hoang ( Hodward )<a></h1>
     
 <p align="center">
-    <img width="200" src="https://lh3.googleusercontent.com/blyrCSCadrQmDVbPgtkBHphsnBlZl9ax1USMfeebWd5Xu1WfnWRhcW3gKvQGO4sLtXihDW2ll94PoES5inrnYToCagyb50mm5ckAXn0=w183-h183-rw-sm-pa-c-v0">
+    <img width="200" src="https://raw.githubusercontent.com/akakshuki/akakshuki/main/Image/Proflie.jpeg"  style="border-radius:50%">
 </p>
 
 <div>
