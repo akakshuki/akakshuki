@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/akakshuki">Hoang(Hodward) <a><img width="30" src="https://raw.githubusercontent.com/akakshuki/akakshuki/main/Blob/risehand.gif"/></a></h1> 
 
 <p align="center">
-    <img width="200" src="https://raw.githubusercontent.com/akakshuki/akakshuki/main/Image/Proflie.jpeg"  style="border-radius:50%">
+    <img width="200" src="https://raw.githubusercontent.com/akakshuki/akakshuki/main/Image/Proflie.jpeg" style="border-radius:50%">
 </p>
 
 <div>
