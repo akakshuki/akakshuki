@@ -6,7 +6,7 @@
 
 <div>
 <strong>About Me:</strong><br>
-💻 I’m currently working as an Junior DevOps at FPT software HCMC
+💻 I’m currently working as an Junior DevOps at BOSCH global HCMC
 <br>
 📚 I graduated in Aptech Aprotrain  <br>
 📈 I experienced 2 Years at DevOps, Backend, Design architect infrastructure<br>
