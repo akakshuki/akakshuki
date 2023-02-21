@@ -17,4 +17,4 @@
 </ul>
 📫 Reach me at <a href="mailto:le.dinhhoang.1207@gmail.com">le.dinhhoang.1207@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/akakshuki/">Linkedin</a><br><br><br>
-
+<a href="https://app.daily.dev/akakshuki"><img src="https://api.daily.dev/devcards/ca3d590a618e46eb86b08200f4db00e6.png?r=hza" width="400" alt="Hoang D. Le's Dev Card"/></a>
