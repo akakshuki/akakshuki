@@ -6,10 +6,10 @@
 
 <div>
 <strong>About Me:</strong><br>
-💻 I’m currently working as an Junior DevOps at BOSCH global HCMC
+💻 I’m currently working as a Junior DevOps at BOSCH global HCMC
 <br>
 📚 I graduated in Aptech Aprotrain  <br>
-📈 I experienced 2 Years at DevOps, Backend, Design architect infrastructure<br>
+📈 I have 2 Years in DevOps, Backend, and Design architect infrastructure<br>
 🏆 My certifications:
 <ul>
    <li>Azure-104</li>
@@ -17,7 +17,3 @@
 </ul>
 📫 Reach me at <a href="mailto:le.dinhhoang.1207@gmail.com">le.dinhhoang.1207@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/akakshuki/">Linkedin</a><br><br><br>
-<p align="center">
-<a href="https://app.daily.dev/akakshuki"><img src="https://api.daily.dev/devcards/ca3d590a618e46eb86b08200f4db00e6.png?r=hza" width="200" alt="Hoang D. Le's Dev Card"/></a>
-</p>
-
