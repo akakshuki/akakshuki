@@ -17,3 +17,11 @@
 </ul>
 📫 Reach me at <a href="mailto:le.dinhhoang.1207@gmail.com">le.dinhhoang.1207@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/akakshuki/">Linkedin</a><br><br><br>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/akakshuki"
+  width="600"
+  height="300"
+/>
+</a>
+****
